@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Practice when Writing Scientific Code"
+title: "Best Practices for Writing Scientific Code"
 categories: coding
 author: Mardochée Réveil
 ---
