@@ -32,6 +32,7 @@ linkedin_username: mreveil
 # Build settings
 #theme: minima
 theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
