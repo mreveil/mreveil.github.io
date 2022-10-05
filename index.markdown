@@ -27,12 +27,12 @@ In particular, I'm interested in:
 
 ## Selected Features
 
-- American Chemical Society (ACS) on AI for materials discovery [Link]](https://cen.acs.org/sections/discovery-reports/future-AI-materials-research-development-discovery.html)
-- Corning Incorporated on Culture of Innovation [Link](https://www.corning.com/in/en/innovation/culture-of-innovation/Mardochee-Reveil-ACS-recognition.html)
-- Cornell University on Discovery, Scholarship and Impact [Link](https://research.cornell.edu/news-features/how-do-we-improve-future-computing-power)
+- American Chemical Society (ACS) on AI for materials discovery [[Link]](https://cen.acs.org/sections/discovery-reports/future-AI-materials-research-development-discovery.html)
+- Corning Incorporated on Culture of Innovation [[Link]](https://www.corning.com/in/en/innovation/culture-of-innovation/Mardochee-Reveil-ACS-recognition.html)
+- Cornell University on Discovery, Scholarship and Impact [[Link]](https://research.cornell.edu/news-features/how-do-we-improve-future-computing-power)
 
 ## Highlighted Awards
 
 - Black Engineer of the Year Award, 2021 Modern Day Technology Leader
 - Excellence in Volunteerism, Corning Incoporated, 2020
-- 2018 Hooey Award in Chemical Engineering, Cornell University [Link](https://www.cheme.cornell.edu/news/spring-hooey-award-winners-mardochee-reveil-clancy-group-and-snehashis-choudhury-archer-group)
+- 2018 Hooey Award in Chemical Engineering, Cornell University [[Link]](https://www.cheme.cornell.edu/news/spring-hooey-award-winners-mardochee-reveil-clancy-group-and-snehashis-choudhury-archer-group)
