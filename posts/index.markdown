@@ -5,4 +5,5 @@
 layout: blog
 title: Blog Posts
 description: Collection of my thoughts on management, AI, innovation and scientific careers.
+background: "../assets/images/blurry-gradient-haikei.svg"
 ---

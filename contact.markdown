@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+background: "assets/images/blurry-gradient-haikei.svg"
 ---
 
 <form name="sentMessage" id="contactForm" novalidate>

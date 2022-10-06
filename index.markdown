@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+background: "assets/images/blurry-gradient-haikei.svg"
 ---
 
 <img src="assets/images/reveil_mardochee.jpg"
